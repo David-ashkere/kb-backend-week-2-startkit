@@ -218,7 +218,7 @@ button:hover {
   margin-top: 2em;
 }
 
-@media (width <= 1000px) {
+@media (width <=1000px) {
   body {
     font-size: 20px;
   }
@@ -228,7 +228,7 @@ button:hover {
   }
 }
 
-@media (width <= 780px) {
+@media (width <=780px) {
   body {
     font-size: 18px;
   }
@@ -242,7 +242,7 @@ button:hover {
   }
 }
 
-@media (width <= 650px) {
+@media (width <=650px) {
   body {
     font-size: 16px;
   }
@@ -256,7 +256,7 @@ button:hover {
   }
 }
 
-@media (width <= 500px) {
+@media (width <=500px) {
   .vote__label {
     grid-template-columns: 1fr;
     gap: 0.5em;
